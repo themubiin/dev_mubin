@@ -122,7 +122,7 @@ const Projects = React.forwardRef<HTMLElement, unknown>((props, ref) => {
                 whileHover={isLargeScreen ? { x: -320, y: -65 } : {}}
                 transition={
                   isLargeScreen
-                    ? { duration: 0.3, ease: "easeOut", delay: 0.3 }
+                    ? { duration: 0.3, delay: 0.3 }
                     : {}
                 }
               >

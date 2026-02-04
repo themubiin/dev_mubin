@@ -109,7 +109,7 @@ export const contactInfo = {
 // =================================================================
 export const socialLinks = {
   linkedin: "https://linkedin.com/in/mubiiin", // Your LinkedIn profile URL
-  github: "https://github.com/theMmubiin", // Your GitHub profile URL
+  github: "https://github.com/themubiin", // Your GitHub profile URL
   facebook: "https://www.facebook.com/the.mubiin",
   resumeLink: "https://cv.mubin.me/", // Google Drive link to your resume
 };

@@ -86,7 +86,7 @@ const Hero = React.forwardRef<HTMLElement, unknown>((_, ref) => {
                 y: [0, 4, -2, 4, 0],
               },
             }}
-            transition={{ duration: 0.5, ease: "easeOut" }}
+            transition={{ duration: 0.5 }}
           >
             <HiOutlineArrowDown className="md:text-lg" />
           </motion.span>
@@ -102,7 +102,7 @@ const Hero = React.forwardRef<HTMLElement, unknown>((_, ref) => {
           whileInView={{
             opacity: 1,
             y: 0,
-            transition: { duration: 0.5, ease: "easeOut" },
+            transition: { duration: 0.5 },
           }}
           className="absolute animate-gradient top-1/2 -left-1/2 z-20 w-[200%] rounded-[100%] border-t-4 border-t-[#d0e8ff] bg-[#0a0a0a] shadow-[inset_0_2px_20px_#d0e8ff,0_-10px_50px_1px_#d0e8ffb3]"
         ></motion.div>
