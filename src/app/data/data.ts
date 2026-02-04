@@ -78,7 +78,7 @@ export const personalInfo = {
 // =================================================================
 export const siteConfig = {
   // Website URLs
-  siteUrl: "https://mubin.eu", // Your deployed website URL
+  siteUrl: "https://mubin.me", // Your deployed website URL
   siteName: "Muntasir Mubin - Founder & CEO of WebDextro", // Site name for social sharing
 
   // SEO Description
@@ -109,9 +109,9 @@ export const contactInfo = {
 // =================================================================
 export const socialLinks = {
   linkedin: "https://linkedin.com/in/mubiiin", // Your LinkedIn profile URL
-  github: "https://github.com/0xMubin", // Your GitHub profile URL
-  facebook: "https://www.facebook.com/mubin.web",
-  resumeLink: "https://cv.mubin.eu/", // Google Drive link to your resume
+  github: "https://github.com/theMmubiin", // Your GitHub profile URL
+  facebook: "https://www.facebook.com/the.mubiin",
+  resumeLink: "https://cv.mubin.me/", // Google Drive link to your resume
 };
 
 // =================================================================\
